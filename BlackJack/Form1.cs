@@ -190,7 +190,6 @@ namespace BlackJack
 
         private void Form_jogo_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("teste");
             string nome_jogador1 = Interaction.InputBox("Informe o nome do jogador 1", "Nome do Jogador 1", "Jogador 1");
             string nome_jogador2 = Interaction.InputBox("Informe o nome do jogador 2", "Nome do Jogador 2", "Jogador 2");
 
